@@ -1,8 +1,5 @@
 To Download this Project in your local machine.
 
-By using the command,
-git clone [repo URL]
-          (OR)
 Download the Zip File.
 
 To Run this Project.
