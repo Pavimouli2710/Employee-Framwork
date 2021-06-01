@@ -1,0 +1,14 @@
+{
+    "PRODUCTION": {
+        "URL_API": "http://30.30.30.82/Employee/api/Phoenix/"
+        
+    },
+    "DEVELOPMENT": {
+        "URL_API": "http://30.30.30.82/Employee/api/Phoenix/"
+      
+    },    
+    "THEME_COLORS": {
+      "PRIMARY": "#007bff",
+      "SECONDARY": "#fc3"
+    }
+}
