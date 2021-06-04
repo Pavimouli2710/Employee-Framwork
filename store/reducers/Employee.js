@@ -18,7 +18,7 @@ export default (state = initialState, action) => {
             case SET_EMPLOYEE:
             return{
                 employeeList : action.employee.map(
-                    emp => new Employee(emp.id.toString(), emp.Emp_Name, emp.Salary, emp.D_o_Join, emp.Gender)),
+                    emp => new Employee(emp.id.toString(), emp.Emp_Name, emp.Salary.toString(), emp.D_o_Join, emp.Gender)),
                 searchedData: []
             }
 
